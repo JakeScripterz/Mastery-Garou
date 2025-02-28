@@ -25,7 +25,7 @@ end
 
 -- First set of animations
 local firstAnimIdsToStop = {12273188754}
-local firstReplacementAnimId = 139937896533570
+local firstReplacementAnimId = 17838006839
 local firstAnimspeed = 1
 handleAnimationDetection(firstAnimIdsToStop, firstReplacementAnimId, firstAnimspeed)
 
